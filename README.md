@@ -36,3 +36,7 @@ After all this, you can finally run run.sh using:
 
 A bunch of things will pop up in the terminal, but thats just Minecraft 1.8.9 .
 
+## Please always credit me!
+
+I dont want people stealing my code.
+Pls Dont!
